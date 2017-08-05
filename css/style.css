@@ -1,0 +1,32 @@
+body{
+  overflow-x: hidden;
+}
+
+.titlehead {
+  font-size: 65px;
+  font-weight: 700;
+  margin-top: 185px;
+}
+
+.book{
+  font-style: italic;
+  margin-top: 245px;
+}
+
+.camtitle{
+  font-size: 65px;
+  font-weight: 700;
+  margin-left: 80%;
+  margin-top: -3%;
+}
+
+}
+.image {
+  width: 400px;;
+}
+
+.pagetitle{
+  font-size: 80px;
+  font-weight: 700;
+
+}
